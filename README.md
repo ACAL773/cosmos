@@ -508,17 +508,6 @@ return false;
  
                                 /* BODY AND HEAD */
  
-body {
-    background:#641387;    
-    color:{color:text};
-    font-family:'calibri';
-    text-align:justify;
-    background-image:url('https://static.tumblr.com/hgwpeok/PXFpnfvv0/bg.png');
-    background-position: bottom left;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
- 
  
 #heads {
     position:fixed;
@@ -991,19 +980,6 @@ hr {
    margin-bottom:5px;
 }
                                 /* POPPY UPPY */
-.popup_block {
-    display:none;
-    height:400px;
-    overflow:auto;
-    background:#81464f;
-    background:url('https://static.tumblr.com/hgwpeok/r9kpnfvv2/popup.png');
-    padding:20px;
-    padding-left:260px;
-    float:left;
-    position:fixed;
-    top:50%;left:50%;
-    z-index: 99999;
-}
  
 .popup_block img {
     float:right;
@@ -1076,36 +1052,9 @@ hr {
 }
                                 /* END */
  
-</style>
-
- 
-
- 
-
- 
- 
- 
-   
- 
- 
-<!– {SOURCEURL}{BLOCK:SOURCELOGO}<IMG SRC="{BLACKLOGOURL}"
-WIDTH="{LOGOWIDTH}" HEIGHT="{LOGOHEIGHT}" ALT="{SOURCETITLE}" />
+	</style>
  
                        
- 
-                            <!-- POP UPS -->
- 
-<div id="ask" class="popup_block">
- 
-
- 
-</div>
- 
-<div id="rules" class="popup_block">
-<h1>Guidelines</h1>
-<hr>
- 
-Rules here
  
  
  
