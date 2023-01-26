@@ -1003,9 +1003,6 @@ hr {
     position:fixed;
     top:50%;left:50%;
     z-index: 99999;
-    -webkit-box-shadow: 0px 0px 20px #000; /* delete for solid white */
-    -moz-box-shadow: 0px 0px 20px #000; /* delete for solid white */
-    box-shadow: 0px 0px 20px #000; /* delete for solid white */
 }
  
 .popup_block img {
