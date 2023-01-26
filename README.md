@@ -435,9 +435,7 @@ return false;
  
  
                                 <!-- FONTS -->
-<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Yellowtail" rel="stylesheet">
+<link href="https://www.1001fonts.com/arcadeclassic-font.html" rel="stylesheet">
  
 <!DOCTYPE html>
 <html>
