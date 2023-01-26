@@ -1112,14 +1112,6 @@ WIDTH="{LOGOWIDTH}" HEIGHT="{LOGOHEIGHT}" ALT="{SOURCETITLE}" />
  
 Rules here
  
-</div>
- 
- 
-<h3>Relationships</h3>
-<img src="https://static.tumblr.com/hgwpeok/BtNpnfvv2/icon.png"/><a 
- 
- 
-</div>
  
  
 
