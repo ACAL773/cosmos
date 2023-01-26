@@ -1048,7 +1048,7 @@ hr {
 .navigator a {
     display:inline-block;
     width:100px;
-    height:100px;
+    height:10px;
     line-height:10px;
     margin:2px;
     padding:8px;
